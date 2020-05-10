@@ -38,9 +38,7 @@
     "gulp-sass": "^4.1.0",
     "gulp-uglify": "^3.0.2",
     "gulp-w3c-html-validator": "^2.0.1",
-    "prettier": "^2.0.5"
-  },
-  "dependencies": {
+    "prettier": "^2.0.5",
     "gulp-ttf2woff": "^1.1.1",
     "gulp-ttf2woff2": "^3.0.0"
   }
